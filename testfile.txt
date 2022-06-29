@@ -18,5 +18,8 @@ I added this new line to the file looking for git diff
 
 On this day i made up my mind to continue devops
 I will try my best to catch up
-Thia is not going to be easy
-but i wont quit
+This is not going to be easy
+But i wont quit
+Nothing good comes easy
+So stay put
+Amen
