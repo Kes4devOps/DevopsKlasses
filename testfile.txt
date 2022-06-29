@@ -17,6 +17,6 @@ I am adding a new line to the testfile
 I added this new line to the file looking for git diff
 
 On this day i made up my mind to continue devops
-i will try my best to catch up
-thia is not going to be easy
+I will try my best to catch up
+Thia is not going to be easy
 but i wont quit
